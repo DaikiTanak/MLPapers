@@ -1,4 +1,4 @@
-# MLPapers
+# ML Knowledge
 
-読んだ機械学習関係の論文をIssueで管理する。
+読んだ機械学習関係の論文&講演をIssueで管理する。
 
